@@ -1,3 +1,4 @@
+<img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1613333495817.png" width="30%" alt="Awesome Octo" align="right" />
 <h1 align="left">Hey, I'm Lorena 🤘🏽</h1>
 <h3 align="left">...and I believe we can create awesome things!</h3>
 
@@ -6,7 +7,6 @@
 <a href="https://instagram.com/loren.goes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30" width="40" /></a>
 
 <h4 align="left">⚡ Want to learn more about me? Check the JavaScript code bellow:</h3>
-<img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1613333495817.png" width="50%" alt="Awesome Octo" align="right" />
 
 ```js
 export creativeArtist = {
