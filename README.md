@@ -1,4 +1,4 @@
-<img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1613333495817.png" width="30%" alt="Awesome Octo" align="right" />
+<img src="my-octocat.png" width="30%" alt="Awesome Octocat" align="right" />
 <h1 align="left">Hey, I'm Lorena 🤘🏽</h1>
 <h3 align="left">...and I believe we can create awesome things!</h3>
 
