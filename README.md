@@ -1,6 +1,6 @@
 <img src="my-octocat.png?raw=true" width="200px" alt="Awesome Octocat" align="right" />
 
-<h1 align="left">Hey, I'm Lorena 🤘🏽</h1>
+<h2 align="left">Hey, I'm Lorena 🤘🏽</h2>
 <h3 align="left">...and I believe we can create awesome things!</h3>
 
 <p align="left">
