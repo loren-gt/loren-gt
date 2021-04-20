@@ -43,5 +43,5 @@ export creativeArtist = {
 
 <h3 align="left">Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loren-gt&theme=dracula&show_icons=true&locale=en&layout=compact" alt="loren-gt" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=loren-gt&theme=dracula&show_icons=true&layout=compact" alt="loren-gt" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loren-gt&theme=dracula&show_icons=true&locale=en" alt="loren-gt" /></p>
