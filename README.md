@@ -22,11 +22,14 @@ export creativeArtist = {
       'HTML',
       'CSS',
       'Javascript',
+      'Python',
       'React',
       'Redux',
       'Hooks',
       'RTL',
-      'Python'
+      'Jest',
+      'NodeJs',
+      'MongoDB',
     ],
     languages: ['Portuguese', 'English'],
   }
